@@ -20,6 +20,7 @@ meta_events = [
     'LE',
     'HID',
     'HIDS',
+    'MESH',
 ]
 
 supported_event_groups = meta_events + [
